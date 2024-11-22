@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
 
-- 🌱 I’m currently learning **Intro to Political Theory & International Relations**
+- 🌱 I’m currently learning **Rust (Programming Language)**
 
 - 💬 Ask me about **JavaScript**
 
