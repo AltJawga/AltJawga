@@ -41,7 +41,7 @@
 
 - ⚡ Fun fact **I am in Computer Science & Political Science**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other Platforms:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/altjawga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altjawga" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/altjawga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="altjawga" height="30" width="40" /></a>
