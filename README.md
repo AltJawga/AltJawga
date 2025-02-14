@@ -37,8 +37,6 @@
 
 - 🌱 I’m currently learning **Rust (Programming Language)**
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **cda0044@auburn.edu**
 
 - ⚡ Fun fact **I am in Computer Science & Political Science**
