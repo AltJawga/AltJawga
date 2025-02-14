@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A full-stack web developer at Auburn University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=altjawga&label=Profile%20views&color=02a4d2&style=flat" alt="altjawga" /> </p>
+</br>
 
 
 
