@@ -31,7 +31,7 @@
   </picture> 
   </div>
   
-  &nbsp;&nbsp;&nbsp;
+<br>
 
 - 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
 
