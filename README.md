@@ -1,8 +1,6 @@
 <h1 align="center">Chris (AltJawga)</h1>
 <h3 align="center">A full-stack web developer at Auburn University</h3>
 
-&nbsp;
-
 <div align="center">
     <picture>
       <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&theme=dark&hide=contribs&show=prs_merged&show_icons=true"
