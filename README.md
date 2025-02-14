@@ -42,9 +42,7 @@
     srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-      <a href="https://github.com/AltJawga?tab=repositories">
     <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut">
-          </a>
   </picture>  
 </div>
 
