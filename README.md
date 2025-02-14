@@ -51,9 +51,4 @@
       <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true">
     </picture>
 </div>
-  
-  
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altjawga&theme=dark" alt="altjawga" /></p>
 
