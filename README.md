@@ -1,7 +1,7 @@
 <h1 align="center">Chris (AltJawga)</h1>
 <h3 align="center">A full-stack web developer at Auburn University</h3>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <div align="center">
     <picture>
