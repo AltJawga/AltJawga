@@ -16,7 +16,7 @@
     </picture>
 </div>
 
-&nbsp;&nbsp;&nbsp;
+<br>
 
 <div align="center">
   <picture>
