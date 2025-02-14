@@ -38,14 +38,14 @@
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a>
     <picture>
-      <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&theme=dark&hide=contribs&show=prs_merged"
+      <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&theme=dark&hide=contribs&show=prs_merged&show_icons=true"
     media="(prefers-color-scheme: dark)"
       />
     <source
-    srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged"
+    srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-      <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged">
+      <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true">
     </picture>
   </a>
 </div>
