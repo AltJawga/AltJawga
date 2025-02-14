@@ -25,14 +25,14 @@
 <div align="center">
 <a href="https://github.com/AltJawga?tab=repositories">
   <picture>
-    <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical&theme=dark"
+    <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
       />
     <source
-    srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical"
+    srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical">
+    <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact">
   </picture>
   </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
