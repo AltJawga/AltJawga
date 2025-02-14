@@ -33,7 +33,9 @@
   />
       <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true">
     </picture>
+    </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center"
   <picture>
     <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -43,8 +45,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut">
-  </picture>  
-</div>
+  </picture> 
+  </div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altjawga&theme=dark" alt="altjawga" /></p>
 
