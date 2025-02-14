@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A full-stack web developer at Auburn University</h3>
 
-<br>
-
 - 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
 
 - 🌱 I’m currently learning **Rust (Programming Language)**
