@@ -17,6 +17,8 @@
 </picture>
 </div>
 
+<br>
+
 <div>
   <picture>
     <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=dark"
