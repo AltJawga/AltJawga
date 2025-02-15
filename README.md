@@ -3,8 +3,8 @@
 
 <br>
 
-<div align="center">
-    <picture>
+
+<picture>
       <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&theme=dark&hide=contribs&show=prs_merged&show_icons=true"
     media="(prefers-color-scheme: dark)"
       />
@@ -13,8 +13,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
       <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true">
-    </picture>
-</div>
+</picture>
+
 
 <br>
 
