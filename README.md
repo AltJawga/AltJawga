@@ -4,6 +4,7 @@
 <br>
 
 <div>
+      
 - 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
 
 - 🌱 I’m currently learning **Rust (Programming Language)**
@@ -11,6 +12,7 @@
 - 📫 How to reach me **cda0044@auburn.edu**
 
 - ⚡ Fun fact **I am in Computer Science & Political Science**
+
 </div>
 
 <br>
