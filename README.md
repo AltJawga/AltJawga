@@ -18,7 +18,6 @@
 
 <br>
 
-<div align="center">
   <picture>
     <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -29,7 +28,6 @@
   />
     <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut">
   </picture> 
-  </div>
   
 <br>
 
