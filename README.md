@@ -4,6 +4,7 @@
 <br>
 
 
+<div>
 <picture>
       <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&theme=dark&hide=contribs&show=prs_merged&show_icons=true"
     media="(prefers-color-scheme: dark)"
@@ -14,10 +15,9 @@
   />
       <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api?username=altjawga&hide=contribs&show=prs_merged&show_icons=true">
 </picture>
+</div>
 
-
-<br>
-
+<div>
   <picture>
     <source srcset="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -28,7 +28,8 @@
   />
     <img align="center" src="https://github-readme-stats-one-pink-71.vercel.app/api/top-langs/?username=altjawga&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut">
   </picture> 
-  
+</div>
+
 <br>
 
 - 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
