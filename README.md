@@ -5,8 +5,6 @@
 
 <div>
       
-- 🔭 I’m currently working on [CompTIA ITF+](https://www.comptia.org/certifications/it-fundamentals)
-
 - 🌱 I’m currently learning **Rust (Programming Language)**
 
 - 📫 How to reach me **cda0044@auburn.edu**
