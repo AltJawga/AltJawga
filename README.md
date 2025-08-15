@@ -5,7 +5,7 @@
 
 <div>
       
-- 🌱 I’m currently learning **Rust (Programming Language)**
+- 🌱 I’m currently learning **Shell**
 
 - 📫 How to reach me **cda0044@auburn.edu**
 
