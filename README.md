@@ -1,4 +1,4 @@
-<h1 align="center">Chris (AltJawga)</h1>
+<h1 align="center">Chris</h1>
 <h3 align="center">A full-stack web developer at Auburn University</h3>
 
 <br>
