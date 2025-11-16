@@ -5,7 +5,7 @@
 
 <div>
       
-- 🌱 I’m currently learning **Shell**
+- 🌱 I’m currently learning **Strategic Intelligence**
 
 - 📫 How to reach me **cda0044@auburn.edu**
 
