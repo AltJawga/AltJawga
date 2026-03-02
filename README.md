@@ -5,7 +5,7 @@
 
 <div>
       
-- 🌱 I’m currently learning **Strategic Intelligence**
+- 🌱 I’m currently learning **Cybersecurity Threats and Countermeasures**
 
 - 📫 How to reach me **cda0044@auburn.edu**
 
