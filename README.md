@@ -5,7 +5,7 @@
 
 <div>
       
-- 🌱 I’m currently learning **Cybersecurity Threats and Countermeasures**
+- 🌱 I’m currently learning **A+ IT Certificate training**
 
 - 📫 How to reach me **cda0044@auburn.edu**
 
